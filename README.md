@@ -78,4 +78,4 @@ Whether you're a recruiter looking for a senior data/systems analyst, a business
 
 📍 **Inland Empire, CA** — Open to hybrid roles within the greater IE/OC/LA area
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chriscabrera05/)
