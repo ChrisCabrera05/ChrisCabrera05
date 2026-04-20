@@ -66,8 +66,8 @@ An AI consulting company for small businesses in Southern California. Lexicore's
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisCabrera05&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCabrera05&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
